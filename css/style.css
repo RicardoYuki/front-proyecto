@@ -1,0 +1,55 @@
+/*Estilo a nivel de eriqueta. En este caso para etiquetar body */
+#body {
+    background-color: #241178
+  }  
+
+/*Estilo a nivel de ID*/
+#cnt_encabezado {
+    background-color: #485ea5;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:#ffc600;
+    border-radius: 15px;
+}
+
+/*Estilo a nivel de ID*/
+#cnt_introduccion{
+    background-color: #485ea5;     
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:#ffc600;
+    border-radius: 15px;
+}
+
+#cnt_formulario {
+    background-color: #485ea5;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:#ffc600;
+    border-radius: 15px;
+}
+
+#cnt_contacto {
+    background-color: #485ea5;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:#ffc600;
+    border-radius: 15px;
+}
+
+/* Estilo a nivel clase (Aplica a n elementos) */
+.form-etiqueta {
+    color:rgb(81, 19, 59);
+}
